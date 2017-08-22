@@ -1,14 +1,13 @@
 {
   "name": "gulp-query-compress",
   "version": "1.0.0",
-  "description": "",
+  "description": "Gulp-query plugin for compress images",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Marat Nuriev",
+  "email": "nurieff@gmail.com",
   "license": "MIT",
   "dependencies": {
+    "gulp-query": "github:gulp-query/gulp-query",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.3.0",
     "imagemin-mozjpeg": "^6.0.0",

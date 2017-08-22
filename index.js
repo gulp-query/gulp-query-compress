@@ -1,4 +1,4 @@
-let Plugin = require('../../src/Plugin')
+let Plugin = require('gulp-query').Plugin
   , glob = require('glob')
   , imagemin = require('gulp-imagemin')
   , gulp = require('gulp')
