@@ -1,7 +1,7 @@
 {
   "name": "gulp-query-compress",
   "version": "1.0.0",
-  "description": "Gulp-query plugin for compress images",
+  "description": "This plugin provides automatic compress and copy.",
   "main": "index.js",
   "author": "Marat Nuriev",
   "email": "nurieff@gmail.com",

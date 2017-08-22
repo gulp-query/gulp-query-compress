@@ -64,17 +64,16 @@ And feel the freedom
 ```
 gulp
 gulp --production // For production (minification)
-gulp watch // Wathing change
+gulp watch // Watching change
 gulp compress // Only for compress
 gulp compress:admin // Only for task with name admin
-gulp compress:admin compress:any watch
 ...
 ```
 
 ### Options
 ```javascript
 .compress({
-    name: "new_name", // For gulp js:new_name 
+    name: "task_name", // For gulp js:task_name 
     from: 'src/images/*.jpg', // ["src/images/*.jpg", "src/images2/*.jpg"]
     to: "images/",
     png: {
