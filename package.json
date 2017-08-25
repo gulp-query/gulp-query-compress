@@ -9,7 +9,6 @@
   "repository": "https://github.com/gulp-query/gulp-query-compress",
   "keywords": [
     "compress",
-    "autoprefixer",
     "gulp",
     "gulp-query",
     "gulp-query-plugin",
