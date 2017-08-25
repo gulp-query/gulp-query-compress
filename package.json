@@ -6,8 +6,17 @@
   "author": "Marat Nuriev",
   "email": "nurieff@gmail.com",
   "license": "MIT",
+  "repository": "https://github.com/gulp-query/gulp-query-compress",
+  "keywords": [
+    "compress",
+    "autoprefixer",
+    "gulp",
+    "gulp-query",
+    "gulp-query-plugin",
+    "images"
+  ],
   "dependencies": {
-    "gulp-query": "github:gulp-query/gulp-query",
+    "gulp-query": "^1.0.0",
     "gulp": "^3.9.1",
     "gulp-imagemin": "^3.3.0",
     "imagemin-mozjpeg": "^6.0.0",
