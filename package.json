@@ -9,6 +9,7 @@
   "repository": "https://github.com/gulp-query/gulp-query-compress",
   "keywords": [
     "compress",
+    "imagemin",
     "gulp",
     "gulp-query",
     "gulp-query-plugin",
