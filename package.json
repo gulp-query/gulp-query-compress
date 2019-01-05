@@ -1,6 +1,6 @@
 {
   "name": "gulp-query-compress",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This plugin provides automatic compress and copy.",
   "main": "index.js",
   "author": "Marat Nuriev",
@@ -16,10 +16,10 @@
     "images"
   ],
   "dependencies": {
-    "gulp-query": "^1.0.0",
-    "gulp": "^3.9.1",
-    "gulp-imagemin": "^3.3.0",
-    "imagemin-mozjpeg": "^6.0.0",
-    "imagemin-pngquant": "^5.0.1"
+    "gulp-query": "^1.1.1",
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^6.0.1"
   }
 }
