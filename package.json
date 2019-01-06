@@ -1,6 +1,6 @@
 {
   "name": "gulp-query-compress",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "This plugin provides automatic compress and copy.",
   "main": "index.js",
   "author": "Marat Nuriev",
